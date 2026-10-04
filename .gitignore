@@ -1,6 +1,11 @@
-.venv/
+# bytecode / optimized
 __pycache__/
 *.pyc
 *.pyo
+
+# virtual env
+.venv/
+
+# runtime logs and local state
 *.log
 questions.json
